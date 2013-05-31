@@ -3,7 +3,7 @@ Alien Attack
 
 ![Screen shot.](screenshot.jpg)
 
-This is my version of the classic video game Galaxians.
+This is my version of the classic video game Galaxian.
 
 It appears here as an Eclipse Java project.
 
